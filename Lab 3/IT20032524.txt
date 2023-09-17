@@ -1,0 +1,10 @@
+Question 01 Answer:
+When there are positive to negative values in our kernel, the convolution starts getting values that are in the edges, so this helps optimizing our kernel at different types to perform different variations. This is what mainly causes CNNs to detect edges efficiently of images.
+
+
+Question 03 Answer:
+
+Can be caused by overfitting.
+As a solution regularizations could be used.
+
+Stochastic gradient descent updates model parameters after processing each example while batch gradient descent processes the whole dataset at once. Also in BGD this is done in each iteration. So BGD takes longer convergence time rater SGD
